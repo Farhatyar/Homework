@@ -1,0 +1,8 @@
+waht are Variable?
+HomeWork1.Variables are containers or boxes in the memory that can hold the data for us.
+why we need HomeWork1.Variables ?
+before we can ask the computer to do something for us we need to store the inforamtion and instrutions in a file then
+ we feed those to the  computer  and computer does that thing for us.
+  how to create the HomeWork1.Variables (syntax):
+  1) we need to tell the computer what type of box/container/Variable we need.
+  2)
