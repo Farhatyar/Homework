@@ -3,7 +3,7 @@ package HomeWork4;
 import java.util.Scanner;
 
 public class Task1 {
-    public static void main(String[] args) {   // done
+    public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
 
         System.out.println("Please Enter your height in inches unit");

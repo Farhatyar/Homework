@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Task4 {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);     //done
+        Scanner scan = new Scanner(System.in);
         System.out.println("Enter your birth month");
         String month=scan.next();
         if (month.equalsIgnoreCase("june") ||month.equalsIgnoreCase("July")||month.equalsIgnoreCase("august")){
