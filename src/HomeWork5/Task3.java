@@ -13,7 +13,7 @@ public class Task3 {
          int j=20;
         for ( j= 20; j >0 ; j--) {
             if (i%2==0){
-                System.out.println(j);
+                System.out.print(j);
             }
 
         }

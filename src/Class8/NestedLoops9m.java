@@ -1,6 +1,6 @@
 package Class8;
 
-public class NestedLoops88 {
+public class NestedLoops9m {
     public static void main(String[] args) {
 
         /*  0 1 2 3 4 5
