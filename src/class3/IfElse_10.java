@@ -10,6 +10,18 @@ public class IfElse_10 {
             System.out.println(!hungry);
 
             System.out.println("lets eat");
+            if (!hungry){
+                System.out.println(hungry);
+            }
+            boolean nothungry= false;
+            System.out.println(nothungry);
+            if (!nothungry){
+                System.out.println(hungry);
+                System.out.println(nothungry);
+            }
+            if (!hungry){
+                System.out.println(nothungry);
+            }
 
         }
     }
