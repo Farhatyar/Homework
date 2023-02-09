@@ -5,13 +5,13 @@ public class ArraysDemo {
         String name="Ahmad";
         String name2="khan";
         String name3="jan";
-        String name4="omad";
+        String name4="omid";
         String name5="Tamim";
 
-        String [] names={"ahmad","khan","jan","omad","Tamim"};
+        String [] names={"ahmad","khan","jan","omid","Tamim"};
         System.out.println(name3);
         System.out.println(names[2]);
-        System.out.println(names[5]);
+        System.out.println(names[4]);
         // System.out.println(names[500]); error because there is no name on index number 500
         //System.out.println(names[-5]); error because index can't be negative
         // write a loop to print all names from array

@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea5555b-cb94-4537-b514-5661cbfe3e68" name="Changes" comment="Feb 5">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16/Task1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16/Task1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16/Task2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16/Task2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="4ea5555b-cb94-4537-b514-5661cbfe3e68" name="Changes" comment="Feb 6th 23">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork17/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork17/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/ChemistryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/ChemistryTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/mathteacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/mathteacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/pianoTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/HomeWork15/Task3/pianoTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class10/D2Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/Class10/D2Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class9/ArraysDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/class9/ArraysDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class10/D2Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10/D2Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class9/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class9/ArraysDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Tester">
-    <configuration name="Task1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork15.Task1.Task1Test" />
+}</component>
+  <component name="RunManager" selected="Application.HomeWork17.Tester">
+    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class9.ArraysDemo" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork15.Task1.*" />
+          <option name="PATTERN" value="class9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D2Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class10.D2Arrays" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork17.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork17.Tester" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,39 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork15.Task2.task2Test" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork15.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task3Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork15.Task3.task3Test" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork15.Task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork17.Tester" />
+        <item itemvalue="Application.D2Arrays" />
+        <item itemvalue="Application.ArraysDemo" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.task3Test" />
-        <item itemvalue="Application.task2Test" />
-        <item itemvalue="Application.Task1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -139,11 +135,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675574863914</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feb 6th 23">
+      <created>1675743263426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675743263426</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feb 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb 5" />
+    <MESSAGE value="Feb 6th 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb 6th 23" />
   </component>
 </project>
