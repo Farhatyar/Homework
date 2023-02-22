@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea5555b-cb94-4537-b514-5661cbfe3e68" name="Changes" comment="Feb 8th 23">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork18/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork19/WebDriver.java" afterDir="false" />
+    <list default="true" id="4ea5555b-cb94-4537-b514-5661cbfe3e68" name="Changes" comment="Feb 15th 23">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/CardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/InsuranceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork20/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.ArraysDemo" />
+  <component name="RunManager" selected="Application.CardTester">
+    <configuration name="CardTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork20.CardTester" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="HomeWork20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D2Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class10.D2Arrays" />
+    <configuration name="InsuranceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork20.InsuranceTester" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class10.*" />
+          <option name="PATTERN" value="HomeWork20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork17.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork17.Tester" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork20.Task3" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork17.*" />
+          <option name="PATTERN" value="HomeWork20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork18.Task" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork20.Task4" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork18.*" />
+          <option name="PATTERN" value="HomeWork20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork16.Task2.Tester" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork20.Task5" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork16.Task2.*" />
+          <option name="PATTERN" value="HomeWork20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.HomeWork17.Tester" />
-        <item itemvalue="Application.D2Arrays" />
-        <item itemvalue="Application.ArraysDemo" />
-        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.CardTester" />
+        <item itemvalue="Application.InsuranceTester" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675912587376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feb 15th 23">
+      <created>1676478438477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676478438477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feb 5" />
     <MESSAGE value="Feb 6th 23" />
     <MESSAGE value="Feb 8th 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb 8th 23" />
+    <MESSAGE value="Feb 15th 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb 15th 23" />
   </component>
 </project>
