@@ -123,7 +123,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="HomeWork24.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork24.Task1" />
       <module name="HomeWork" />
@@ -191,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.HomeWork24.Task1" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
