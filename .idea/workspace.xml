@@ -4,92 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea5555b-cb94-4537-b514-5661cbfe3e68" name="Changes" comment="Mar 01 23">
+    <list default="true" id="c313fcb1-6f2a-4dc9-8483-4ec1d2ca056d" name="Changes" comment="Mar 25 23">
       <change afterPath="$PROJECT_DIR$/src/HomeWork23/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork24/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork24/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork24/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork24/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork23/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/IfDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/IfElaseIfConditionDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/IfElseConditions2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/IfElseIfConditionDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/NestIfDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/NestIfDemo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/NestedIfDemo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/ScannerDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class4/ScannerDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/LogicalOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/LogicalOperators1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/LogicalOperators2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/ScannerDemo44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/SwitchCaseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/SwitchCaseDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/SwitchCaseDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/SwitchCaseDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/SwitchCaseDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Class5/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork22/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/HomeWork22/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/DecimalNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/OperatorsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/StringAddition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/VariablesDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class2/variablesdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/IfEelse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/IfElse_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/IfElse_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/IfElse_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/Ifelse_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/OperatorDemo_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/RelationalOperators_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/ShortHandOperator_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/TypeCasting_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/VariablesDemo_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/VariablesDemo_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/class3/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/IfDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/IfElaseIfConditionDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/IfElseConditions2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/IfElseIfConditionDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/NestIfDemo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/NestIfDemo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/NestedIfDemo7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/ScannerDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4/ScannerDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/LogicalOperators1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/LogicalOperators2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/ScannerDemo44.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/SwitchCaseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/SwitchCaseDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/SwitchCaseDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/SwitchCaseDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/SwitchCaseDemo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/DecimalNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/Operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/OperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/StringAddition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/VariablesDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/variablesdemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/IfEelse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/IfElse_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/IfElse_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/IfElse_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/Ifelse_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/OperatorDemo_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/RelationalOperators_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/ShortHandOperator_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/TypeCasting_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/VariablesDemo_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/VariablesDemo_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork23/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/HomeWork23/Task1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +42,52 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="HomeWork24.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork24.Task1" />
+  <component name="RunManager" selected="Application.HomeWork23.Task4">
+    <configuration name="HomeWork23.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork23.Task1" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork24.*" />
+          <option name="PATTERN" value="HomeWork23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork23.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork23.Task2" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork23.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork23.Task3" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork23.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork23.Task4" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,52 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork24.Task2" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork24.Task3" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork24.Task4" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork23.Task4" />
+        <item itemvalue="Application.HomeWork23.Task3" />
+        <item itemvalue="Application.HomeWork23.Task2" />
+        <item itemvalue="Application.HomeWork23.Task1" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.HomeWork24.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -250,8 +169,26 @@
       <option name="project" value="LOCAL" />
       <updated>1677697180328</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Mar 25 23">
+      <created>1679785366820</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679785366820</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feb 5" />
@@ -260,6 +197,7 @@
     <MESSAGE value="Feb 15th 23" />
     <MESSAGE value="Feb 22th 23" />
     <MESSAGE value="Mar 01 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 01 23" />
+    <MESSAGE value="Mar 25 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 25 23" />
   </component>
 </project>
